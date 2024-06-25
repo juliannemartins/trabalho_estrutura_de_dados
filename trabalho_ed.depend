@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1694353060 source:c:\users\julia\onedrive\documents\trabalho de ed\trabalho_ed\funcoes_trab.c
+
+1694443438 source:c:\users\julia\onedrive\documents\trabalho de ed\trabalho_ed\main_trab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"header_trab.h"
+
+1694376519 source:c:\users\julia\onedrive\documents\trabalho de ed\trabalho_ed\abp_trab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"abp.h"
+
+1694376522 c:\users\julia\onedrive\documents\trabalho de ed\trabalho_ed\abp.h
+
+1694409900 c:\users\julia\onedrive\documents\trabalho de ed\trabalho_ed\header_trab.h
+	<stdio.h>
+	<stdlib.h>
+
+1694436871 source:c:\users\julia\onedrive\documents\trabalho de ed\trabalho_ed\avl_trab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"header_trab.h"
+
